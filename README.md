@@ -16,4 +16,4 @@ Unlocks all cosmetics(hats, pets, skins) for Among Us v10.22
 
 ##### Note: If you can afford to actually buy cosmetics, I encourage doing that to support the devs who work hard on this game :) 
 
-### If this doesn't work, make sure you are on version 9.22. Some cracked versions may not work with this. 
+### If this doesn't work, make sure you are on version 10.22. Some cracked versions may not work with this. 
