@@ -1,6 +1,6 @@
 # AmongUs-Cosmetics-Unlocker
 
-Unlocks all cosmetics(hats, pets, skins) for Among Us v10.22 
+Unlocks all cosmetics(hats, pets, skins) for Among Us v11.17 
 
 ## INSTRUCTIONS: 
 
