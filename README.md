@@ -12,7 +12,7 @@ Unlocks all cosmetics(hats, pets, skins) for Among Us version 2021.11.9
 
 4.) Start "Cosmetics Unlocker.CETRAINER" and press the big "I n j e c c" button. 
 
-5.) You now have access to all hats, skins, and pets! 
+5.) You now have access to all pets, hats, skins, visors, and name plates! 
 
 ##### Note: If you can afford to actually buy cosmetics, I encourage doing that to support the devs who work hard on this game :) 
 
