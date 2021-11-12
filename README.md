@@ -4,7 +4,7 @@ Unlocks all cosmetics(hats, pets, skins) for Among Us version 2021.11.9
 
 ## INSTRUCTIONS: 
 
-1.) Download Cheat Engine from https://cheatengine.org/
+1.) Download Cheat Engine from https://cheatengine.org/ (Make sure you read the installer to avoid bundleware!) 
 
 2.) Download "Cosmetics Unlocker.CETRAINER" 
 
