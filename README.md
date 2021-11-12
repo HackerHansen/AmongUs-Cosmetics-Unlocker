@@ -1,6 +1,6 @@
 # AmongUs-Cosmetics-Unlocker
 
-Unlocks all cosmetics(hats, pets, skins) for Among Us version 2021.11.9 
+Unlocks all cosmetics(hats, pets, skins, visors, and name plates) for Among Us version 2021.11.9 
 
 ## INSTRUCTIONS: 
 
