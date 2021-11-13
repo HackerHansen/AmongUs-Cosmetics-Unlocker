@@ -2,6 +2,8 @@
 
 Unlocks all cosmetics(hats, pets, skins, visors, and name plates) for Among Us version 2021.11.9 
 
+**This program will no longer be updated. [This](https://github.com/HackerHansen/AmongUsCosmetics) is a newer version.** 
+
 ## INSTRUCTIONS: 
 
 1.) Download Cheat Engine from https://cheatengine.org/ (Make sure you read the installer to avoid bundleware!) 
